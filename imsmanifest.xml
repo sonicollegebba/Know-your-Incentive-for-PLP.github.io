@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">INCENTIVE STRUCTURE - less than 3 months Personal loan version 1.1 </langstring>
+          <langstring xml:lang="x-none">INCENTIVE STRUCTURE - less than 3 month PLP 1.2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="INCENTIVE_STRUCTURE_-_less_than_3_months_Personal_loan_version_1.1__ORG">
-    <organization identifier="INCENTIVE_STRUCTURE_-_less_than_3_months_Personal_loan_version_1.1__ORG">
-      <title>INCENTIVE STRUCTURE - less than 3 months Personal loan version 1.1 </title>
-      <item identifier="INCENTIVE_STRUCTURE_-_less_than_3_months_Personal_loan_version_1.1__SCO" isvisible="true" identifierref="__5Xalv4I7Hd3_course_id_RES">
-        <title>INCENTIVE STRUCTURE - less than 3 months Personal loan version 1.1 </title>
+  <organizations default="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.2_ORG">
+    <organization identifier="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.2_ORG">
+      <title>INCENTIVE STRUCTURE - less than 3 month PLP 1.2</title>
+      <item identifier="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.2_SCO" isvisible="true" identifierref="__5Xalv4I7Hd3_course_id_RES">
+        <title>INCENTIVE STRUCTURE - less than 3 month PLP 1.2</title>
       </item>
     </organization>
   </organizations>
