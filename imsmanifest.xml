@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">INCENTIVE STRUCTURE - less than 3 month PLP 1.3</langstring>
+          <langstring xml:lang="x-none">INCENTIVE STRUCTURE - less than 3 month PLP  </langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.3_ORG">
-    <organization identifier="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.3_ORG">
-      <title>INCENTIVE STRUCTURE - less than 3 month PLP 1.3</title>
+  <organizations default="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP___ORG">
+    <organization identifier="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP___ORG">
+      <title>INCENTIVE STRUCTURE - less than 3 month PLP  </title>
       <item identifier="INCENTIVE_STRUCTURE_-_less_than_3_month_PLP_1.2_SCO" isvisible="true" identifierref="__5Xalv4I7Hd3_course_id_RES">
-        <title>INCENTIVE STRUCTURE - less than 3 month PLP 1.3</title>
+        <title>INCENTIVE STRUCTURE - less than 3 month PLP  </title>
       </item>
     </organization>
   </organizations>
